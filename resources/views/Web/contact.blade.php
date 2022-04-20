@@ -36,7 +36,7 @@
                      
                 <aside  class = "col-sm-4">   
                      <ul>  
-                        <img id = "imagen-lol" src="img/bg-img/maqX.jpg">
+                        <img id = "imagen-lol" src="web/img/bg-img/maqX.jpg">
                      </ul>        
                 </aside> 
     

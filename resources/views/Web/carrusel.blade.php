@@ -19,9 +19,9 @@
                         <div class="single-product-wrapper">
                             <!-- Product Image -->
                             <div class="product-img">
-                                <img src="img/product-img/product-1.jpg" alt="">
+                                <img src="web/img/product-img/product-1.jpg" alt="">
                                 <!-- Hover Thumb -->
-                                <img class="hover-img" src="img/product-img/product-2.jpg" alt="">
+                                <img class="hover-img" src="web/img/product-img/product-2.jpg" alt="">
                                 <!-- Favourite -->
                                 <div class="product-favourite">
                                     <a href="#" class="favme fa fa-heart"></a>
@@ -49,9 +49,9 @@
                         <div class="single-product-wrapper">
                             <!-- Product Image -->
                             <div class="product-img">
-                                <img src="img/product-img/product-2.jpg" alt="">
+                                <img src="web/img/product-img/product-2.jpg" alt="">
                                 <!-- Hover Thumb -->
-                                <img class="hover-img" src="img/product-img/product-3.jpg" alt="">
+                                <img class="hover-img" src="web/img/product-img/product-3.jpg" alt="">
                                 <!-- Favourite -->
                                 <div class="product-favourite">
                                     <a href="#" class="favme fa fa-heart"></a>
@@ -79,9 +79,9 @@
                         <div class="single-product-wrapper">
                             <!-- Product Image -->
                             <div class="product-img">
-                                <img src="img/product-img/product-3.jpg" alt="">
+                                <img src="web/img/product-img/product-3.jpg" alt="">
                                 <!-- Hover Thumb -->
-                                <img class="hover-img" src="img/product-img/product-4.jpg" alt="">
+                                <img class="hover-img" src="web/img/product-img/product-4.jpg" alt="">
 
                                 <!-- Product Badge -->
                                 <div class="product-badge offer-badge">
@@ -115,9 +115,9 @@
                         <div class="single-product-wrapper">
                             <!-- Product Image -->
                             <div class="product-img">
-                                <img src="img/product-img/product-4.jpg" alt="">
+                                <img src="web/img/product-img/product-4.jpg" alt="">
                                 <!-- Hover Thumb -->
-                                <img class="hover-img" src="img/product-img/product-5.jpg" alt="">
+                                <img class="hover-img" src="web/img/product-img/product-5.jpg" alt="">
 
                                 <!-- Product Badge -->
                                 <div class="product-badge new-badge">
